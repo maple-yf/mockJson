@@ -5,3 +5,4 @@ const fs = require('fs');
 
 // console.log(fs)
 // mockTaxi.getMapJson();
+// mockTaxi.getBoxJson();
