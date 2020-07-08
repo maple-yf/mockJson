@@ -1,0 +1,21 @@
+{
+    "name": "mockjson",
+    "version": "1.0.0",
+    "description": "mock json",
+    "main": "index.js",
+    "scripts": {
+      "test": "mockjson"
+    },
+    "bin": {
+      "mockjson": "./index.js"
+    },
+    "keywords": [
+      "address"
+    ],
+    "author": "maple.yf",
+    "license": "ISC",
+    "dependencies": {
+      "address": "^1.0.3"
+    }
+  }
+  
