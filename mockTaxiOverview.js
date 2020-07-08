@@ -19,7 +19,7 @@ function getMapJson() {
         data += generatorLatLon(i/20000).join(',') + ',';
     }
     data = data.substring(0, data.length-1);
-    fs.writeFile('./mapMockJson.json', `[${data}]`, (res)=>{
+    fs.writeFile('./mockdata/mapMockJson.json', `[${data}]`, (res)=>{
         console.log(res)
     });
 }
