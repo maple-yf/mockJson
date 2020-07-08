@@ -49,7 +49,23 @@ function getBoxJson() {
     });
 }
 
+// 折线图 | 柱状图
+function getPolygonalData() {
+    const data = [];
+    for(let i=1; i<=24; i++) {
+        data.push({
+            time: i,
+            value: Math.floor(Math.random() * 1000)
+        })
+    }
+    fs.writeFile('./mockdata/polygonalData1.json', JSON.stringify(data), (res)=>{
+        console.log(res)
+    });
+}
+
+
 module.exports = {
     getMapJson,
     getBoxJson,
+    getPolygonalData,
 }
