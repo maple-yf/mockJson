@@ -1,0 +1,106 @@
+{
+  "dayTotal" : 343424343,
+  "perCapita" : 21,
+  "tendencyList" : [
+    {
+      "val" : 100,
+      "time" : 0
+    },
+    {
+      "val" : 100,
+      "time" : 1
+    },
+    {
+      "val" : 100,
+      "time" : 2
+    },
+    {
+      "val" : 100,
+      "time" : 3
+    },
+    {
+      "val" : 100,
+      "time" : 4
+    },
+    {
+      "val" : 100,
+      "time" : 5
+    },
+    {
+      "val" : 100,
+      "time" : 6
+    },
+    {
+      "val" : 100,
+      "time" : 7
+    },
+    {
+      "val" : 100,
+      "time" : 8
+    },
+    {
+      "val" : 100,
+      "time" : 9
+    },
+    {
+      "val" : 100,
+      "time" : 10
+    },
+    {
+      "val" : 100,
+      "time" : 11
+    },
+    {
+      "val" : 100,
+      "time" : 12
+    },
+    {
+      "val" : 100,
+      "time" : 13
+    },
+    {
+      "val" : 100,
+      "time" : 14
+    },
+    {
+      "val" : 100,
+      "time" : 15
+    },
+    {
+      "val" : 100,
+      "time" : 16
+    },
+    {
+      "val" : 100,
+      "time" : 17
+    },
+    {
+      "val" : 100,
+      "time" : 18
+    },
+    {
+      "val" : 100,
+      "time" : 19
+    },
+    {
+      "val" : 100,
+      "time" : 20
+    },
+    {
+      "val" : 100,
+      "time" : 21
+    },
+    {
+      "val" : 100,
+      "time" : 22
+    },
+    {
+      "val" : 100,
+      "time" : 23
+    }
+  ],
+  "proportion" : {
+    "online" : 30,
+    "yangzhao" : 70
+  }
+}
